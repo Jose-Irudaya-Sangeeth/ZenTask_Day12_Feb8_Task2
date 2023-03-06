@@ -1,0 +1,26 @@
+.main-cont{
+    margin: 5% 5% 10% 10%  ;
+    width: 80%;
+    border-style: solid;
+}
+
+.btn1{
+    margin-left: 25%;
+}
+
+.img-col{
+    width: 15rem;
+    height: 10rem;
+    margin-right: 5px;
+}
+
+.roundimg{
+    border-radius: 50px;
+}
+
+.circle {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 10%;
+}
